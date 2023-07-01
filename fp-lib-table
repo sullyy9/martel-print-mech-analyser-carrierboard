@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "74LVC1G17GW")(type "KiCad")(uri "${KIPRJMOD}/74LVC1G17GW")(options "")(descr ""))
+  (lib (name "AD5165")(type "KiCad")(uri "${KIPRJMOD}/AD5165")(options "")(descr ""))
+  (lib (name "FH28-50S-0-5SH")(type "KiCad")(uri "${KIPRJMOD}/FH28-50S-0-5SH/footprints.pretty")(options "")(descr ""))
+)
